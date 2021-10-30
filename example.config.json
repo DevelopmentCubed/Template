@@ -1,6 +1,5 @@
 {
   "TOKEN": "TOKEN_HERE",
   "PREFIX": "!",
-  "OWNERS": ["YOUR_ID_HERE"],
   "LOGGING": "LOGGING_CHANNEL_ID"
 }
